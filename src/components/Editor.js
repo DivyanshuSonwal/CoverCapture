@@ -218,10 +218,6 @@ class Editor extends React.Component {
 					</div>
 
 
-					<span className="text-sm mt-4  text-center text-gray-400">Made with 💖 by <a href="https://rutikwankhade.dev"
-						target="_blank" rel="noopener  noreferrer" className="underline hover:text-green-500">Rutik Wankhade</a></span>
-
-
 
 
 					{/* <div className="mx-4 my-1">
